@@ -21,7 +21,6 @@ function MovieCard() {
                 <Link to={`/form/${movie.id}`}>
                     <div className="btn btn-primary dsmovie-btn">Avaliar</div>
                 </Link>
-
             </div>
         </div>
     );
